@@ -1,4 +1,5 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cms-dpoa/cms-acp-tutorial/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cms-dpoa/cms-acp-tutorial/HEAD) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cms-dpoa/cms-acp-tutorial/blob/main/cms-tutorial.ipynb)
+
 
 # CMS Open Data Tutorial
 
