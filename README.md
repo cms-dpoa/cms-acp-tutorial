@@ -19,3 +19,7 @@ jupyter lab
 ### Run in Binder 
 
 Click on the "launch binder" button above
+
+### Run in Google Colab
+
+Click on the "Open in Colab" button above
